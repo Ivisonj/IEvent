@@ -40,10 +40,10 @@ Leitor de QR Code:
 ## Funcionalidades
 
 1. Eventos Personalizados: Crie eventos com regras para controle de requência.
-   QR Code para Presença: Os participantes podem confirmar presença escaneando um QR Code.
-   Controle de Frequência: Visualize quem compareceu, faltou ou se atrasou.
-   Sistema de Chat: Comunicação integrada para que os usuários possam justificar suas faltas e atrasos.
-   Notificações Automatizadas: Notifique participantes com base na frequência registrada.
+2. QR Code para Presença: Os participantes podem confirmar presença escaneando um QR Code.
+3. Controle de Frequência: Visualize quem compareceu, faltou ou se atrasou.
+4. Sistema de Chat: Comunicação integrada para que os usuários possam justificar suas faltas e atrasos.
+5. Notificações Automatizadas: Notifique participantes com base na frequência registrada.
 
 ## Backend
 
