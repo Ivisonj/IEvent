@@ -2,7 +2,7 @@
 
 Aplicação Fullstack para criação e gestão de eventos personalizados, com funcionalidades como controle presença via QR Code, registro de participantes e controle de frequência.
 
-<img src="/imgs/ievent.png" alt="ievent" style="width: 600px; height: 500px;">
+<img src="/imgs/i-event.png" alt="ievent" style="width: 600px; height: 500px;">
 
 ## Descrição
 
