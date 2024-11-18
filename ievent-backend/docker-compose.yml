@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  nest-api:
+    image: ievent-backend:latest
+    restart: always
+    ports:
+      - 3000:3000
+    # depends_on:
+    #   - postgres
+    environment:
+      - DATABASE_URL=postgresql://postgres:12345678@localhost:5432/ieventDB?schema=public&sslmode=prefer
+#   postgres:
+#     image: postgres:13
+#     container_name: ievent_db
+#     restart: always
+#     ports:
+#       - 5432:5432
+#     env_file:
+#       - .env
+#     volumes:
+#       - postgres:/var/lib/postgresql/data
+
+# volumes:
+#   postgres:
+#     name: nest-prisma-docker-db
